@@ -16,11 +16,9 @@ The dataset used in this project is the "Student Performance" dataset, which can
 
 - `data/`: Contains the dataset files.
 - `notebooks/`: Jupyter Notebooks with code and analysis of the dataset.
-- `src/`: Source code for data processing and modeling.
+- `src/`: Source code for data processing and modelling.
 - `README.md`: This file, providing an overview of the project.
 
-## Installation and Usage
 
-To use this repository, clone it to your local machine:
 
 
